@@ -1,2 +1,2 @@
 # http5114-TH
-Web design workshop class
+This repo contains tasks carried out in my database workshop in development course for my web dev program
